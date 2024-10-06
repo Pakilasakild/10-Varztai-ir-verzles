@@ -1,0 +1,6 @@
+Reikalingi varztai: 
+3 2
+2 4
+Reikalingos verzles: 
+2 8
+1 10
